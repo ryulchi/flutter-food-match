@@ -1,4 +1,4 @@
-# test
+# FoodMatch
 
 A new Flutter project.
 
